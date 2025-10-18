@@ -1,6 +1,8 @@
 # Unit Calculator
 
-A web-based calculator that supports unit-aware calculations.  
+***This is the old version of the unit calculator, for V2 please see: https://github.com/Bobwillrule/UnitCalculatorV2***
+
+An android calculator that supports unit-aware calculations.  
 You can mix metric and imperial units, and the calculator will handle conversions automatically.  
 
 ## Features
