@@ -17,4 +17,8 @@ You can mix metric and imperial units, and the calculator will handle conversion
 
 ## Future Improvements
 - Support for more units.  
-- Exporting results.  
+- Exporting results.
+
+## Notes
+- This was my very first self directed coding project
+- This project was created before my use (or knowledge) of github therefore there is barely/no commit history
